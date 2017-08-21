@@ -1,0 +1,37 @@
+---
+layout: page
+title:  "全記事"
+permalink: "/archive/"
+---
+
+<div class="archive">
+  <div class="timeline" id="timeline">
+    {% for post in site.posts %}
+    {% unless post.next %}
+    <div class="archive-title">
+      <h4 class="archive-year">{{ post.date | date: "%Y年" }}</h4>
+    </div>
+
+    <ul style="list-style-type: none;">
+    {% else %}
+      {% capture year %}{{ post.date | date: "%Y年" }}{% endcapture %}
+      {% capture nyear %}{{ post.next.date | date: '%Y年' }}{% endcapture %}
+    {% if year != nyear %}
+    </ul>
+    <div class="archive-title">
+      <h4 class="archive-year">{{ post.date | date: '%Y年' }}</h4>
+    </div>
+
+    <ul>
+    {% endif %}
+    {% endunless %}
+    <li>
+      <div style="width:80px;
+                  float:left;
+                  color: #b5ca1b;
+                  font-weight: bold;">{{ post.date | date: "%m/%d" }}</div> <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% if post.update %}※{{ post.update | date: "%Y年%m月%d日" }}更新{% endif %}</li>{% endfor %}
+    </ul>
+
+  </div>
+
+</div>
