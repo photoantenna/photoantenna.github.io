@@ -1,1 +1,59 @@
-theme: jekyll-theme-minimal
+#
+###################################
+# Site wide configuration
+####################################
+#
+title:       "photoAntenna"
+name:        "photoAntenna"
+description: "お金や料理、旅行や人生のこと、真面目な話から戯言まで。有益な情報を提供したいという第一目的はあるものの、コミュ障な私の生き方を垣間見せたかったりする所謂個人サイトってやつです。"
+url:         "http://photoantenna.com"
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Asia/Tokyo
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+gems: [jekyll-paginate,classifier-reborn]
+      
+pagination: true
+paginate: 5
+paginate_path: "page:num"
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: MASATOMO KUSUNOKI
+  avatar: avatar.jpg
+  job: ""
+  bio: ""
+  email: kusutomo@photoantenna.com
+  twitter: photoantenna
+  facebook: photoantenna
+  google:
+    plus: kusutomo723photoAntenna
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  instagram: #username
+  tumblr: #username
+  pinterest:
+  youtube: kusutomo723
+  flickr: kusutomo
+  niconico: 54401
+  lsi: true
