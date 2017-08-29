@@ -6,6 +6,8 @@ excerpt: "我々日本人に馴染みの深い保険(主に生命保険)には�
 categories: "お金"
 tags: "節約 保険"
 keywords: "保険, バイアス, 固定観念, 生命保険, 損害保険, 金融商品"
+image:
+  feature: money.jpg
 ---
 
 ### 保険は金融商品です
