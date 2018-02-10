@@ -19,7 +19,6 @@ highlighter:       rouge
 excerpt_separator: <!--more-->
 permalink:         /articles/:year-:month/:title
 gems: [jekyll-paginate,classifier-reborn]
-update: post.update
       
 pagination: true
 paginate: 5
