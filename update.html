@@ -6,7 +6,7 @@ permalink: "/update/"
 
 <div class="archive">
   <div class="timeline" id="timeline">
-    {% for update in site.posts %}
+    {% for post in site.posts %}
     {% unless post.next %}
     <div class="archive-title">
       <h4 class="archive-year">{{ post.update | date: "%Y年" }}</h4>
@@ -29,7 +29,8 @@ permalink: "/update/"
       <div style="width:80px;
                   float:left;
                   color: #b5ca1b;
-                  font-weight: bold;">{{ post.update | date: "%m/%d" }}更新</div> <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                  font-weight: bold;">
+        {% if post.update %}{{ post.update | date: "%m/%d" }}更新</div> <a href="{{ site.url }}{{ post.url }}">{{ post.title }}{% endif %}</a>
       {% endfor %}
     </ul>
 
