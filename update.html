@@ -8,22 +8,8 @@ permalink: "/update/"
   <div class="timeline" id="timeline">
     {% for post in site.posts %}
     {% unless post.next %}
-    <div class="archive-title">
-      <h4 class="archive-year">{{ post.update | date: "%Y年" }}</h4>
-    </div>
-
-    <ul style="list-style-type: none;">
-    {% else %}
-      {% capture year %}{{ post.update | date: "%Y年" }}{% endcapture %}
-      {% capture nyear %}{{ post.next.update | date: '%Y年' }}{% endcapture %}
-    {% if year != nyear %}
-    </ul>
-    <div class="archive-title">
-      <h4 class="archive-year">{{ post.update | date: '%Y年' }}</h4>
-    </div>
 
     <ul>
-    {% endif %}
     {% endunless %}
     <li>
       <div style="width:80px;
