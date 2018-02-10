@@ -10,6 +10,7 @@ permalink: "/update/"
     {% unless post.next %}
 
     {% endunless %}
+    <ul style="list-style:none;">
     <li>
       <div style="width:80px;
                   float:left;
@@ -17,7 +18,8 @@ permalink: "/update/"
                   font-weight: bold;">
         {% if post.update %}{{ post.update | date: "%Y年%m月%d日" }}更新</div> <a href="{{ site.url }}{{ post.url }}">{{ post.title }}{% endif %}</a>
       {% endfor %}
-
+    </ul>
+      
   </div>
 
 </div>
