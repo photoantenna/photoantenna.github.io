@@ -6,7 +6,7 @@ permalink: "/update/"
 
 <div class="archive">
   <div class="timeline" id="timeline">
-    {% assign updated = (site.posts | sort: 'title') %}
+    {% assign updated = (site.posts | sort: 'update') %}
     {% for post in updated %}
     {% unless post.next %}
     
