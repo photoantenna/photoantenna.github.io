@@ -31,7 +31,7 @@ permalink: "/archive/"
                   color: #b5ca1b;
                   font-weight: bold;">{{ post.date | date: "%m/%d" }}</div> <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                   <div style="clear:both;"></div>
-                  {% if post.update %}<div stlyle="float:left">※{{ post.update | date: "%Y年%m月%d日" }}更新{% endif %}</div></li>{% endfor %}
+                  {% if post.update %}※{{ post.update | date: "%Y年%m月%d日" }}更新{% endif %}</li>{% endfor %}
     </ul>
 
   </div>
