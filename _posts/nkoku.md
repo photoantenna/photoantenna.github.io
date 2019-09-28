@@ -51,7 +51,7 @@ N国は定例会や臨時総会をyoutubeで生配信しスーパーチャット
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hrqZfzJ70Mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-文春のやり方ってのをそもそも初めて知ったけど文春の期限付きの質問に対してきっちり納期守って回答すると最大の防御になるのねｗしかもその防御が文春の攻撃力を削ぐっていうオマケ付き。
+文春のやり方ってのをそもそも初めて知ったけど文春の期限付きの質問に対してきっちり納期守って回答すると最大の防御になるのねｗしかもその防御が文春の攻撃力を削ぐっていうオマケ付き。ノーカットの映像でやり取りがアメリカのサーバに残っちゃうんだから相手はたまったもんじゃないね。
 
 要は本当になんでもかんでも自分に関係する話題は反対でも賛成でも意見を言うことで透明性を保持しているのね。これは意見しない政治家に対する問題提起でもあるのかな？意見の無い、言わない政治家に価値あるの？って感じで。確かに意見言わないんだったら私でもできるしなぁー。
 
@@ -61,5 +61,5 @@ NHKのスクランブル放送が実現したら立花孝志氏は国会議員�
 
 彼の理想に追従することで吉と出るか凶と出るか
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ4NTcxOTZdfQ==
+eyJoaXN0b3J5IjpbLTE5NDE5Mjc2MywtMTU4NDg1NzE5Nl19
 -->
