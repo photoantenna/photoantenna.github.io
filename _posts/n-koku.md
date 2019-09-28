@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "N国の立花孝志代表は安全でクリーンな政治家だと思うんですけど"
-permalink: n-koku
+permalink: nkoku
 excerpt: "NHKから国民を守る党の代表である立花孝志国会議員が発信している動画を最近よく見るのですが、彼の正直さには惹かれるものがあります。NHKをぶっ壊せるかどうかはわかりませんが個人的には彼を応援したい、そんな気持ちです。"
 categories: "日記"
 amazon: true
@@ -53,13 +53,13 @@ N国は定例会や臨時総会をyoutubeで生配信しスーパーチャット
 
 文春のやり方ってのをそもそも初めて知ったけど文春の期限付きの質問に対してきっちり納期守って回答すると最大の防御になるのねｗしかもその防御が文春の攻撃力を削ぐっていうオマケ付き。
 
-要は本当になんでも
+要は本当になんでもかんでも自分に関係する話題は反対でも賛成でも意見を言うことで透明性を保持しているのね。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjEwMDAxMywtMTQ2OTYxNjA3OSwtMT
-I1NTc2MTcxMCwtNzA3NjIwMDI2LC04OTk1MTI2NTEsLTIxMzA2
-MDU4NDMsLTExODY4MzExNDUsMzEyNjkxOTMsMTUxMjQ1NTI1Mi
-wzNTc1NTI1MzAsMTUzNDQwMzI0NiwtMTY4MTEwMzMzNywtMTk1
-ODIwMzI4MCw3MDcxMTc3MjYsMjg3NjE3NTI1LDEyNDA5ODY4OT
-EsMTc5MzU5ODc3OCwxMDM2MDE4NTczLDEwNzI3NjEwOTEsLTEz
-OTczNzc3NDNdfQ==
+eyJoaXN0b3J5IjpbMTY3MzA4MTgzLC0xNDY5NjE2MDc5LC0xMj
+U1NzYxNzEwLC03MDc2MjAwMjYsLTg5OTUxMjY1MSwtMjEzMDYw
+NTg0MywtMTE4NjgzMTE0NSwzMTI2OTE5MywxNTEyNDU1MjUyLD
+M1NzU1MjUzMCwxNTM0NDAzMjQ2LC0xNjgxMTAzMzM3LC0xOTU4
+MjAzMjgwLDcwNzExNzcyNiwyODc2MTc1MjUsMTI0MDk4Njg5MS
+wxNzkzNTk4Nzc4LDEwMzYwMTg1NzMsMTA3Mjc2MTA5MSwtMTM5
+NzM3Nzc0M119
 -->
