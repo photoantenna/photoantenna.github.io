@@ -51,13 +51,13 @@ N国は定例会や臨時総会をyoutubeで生配信しスーパーチャット
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hrqZfzJ70Mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-文春のやり方ってのをそもそも初めて知ったけど文春の質問に
+文春のやり方ってのをそもそも初めて知ったけど文春の期限付きの質問に対してきっちり納期守って回答すると最大の防御になるのねｗしかもその防御が文春の攻撃力を削ぐっていうミラ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4NTA2NiwtMTI1NTc2MTcxMCwtNzA3Nj
-IwMDI2LC04OTk1MTI2NTEsLTIxMzA2MDU4NDMsLTExODY4MzEx
-NDUsMzEyNjkxOTMsMTUxMjQ1NTI1MiwzNTc1NTI1MzAsMTUzND
-QwMzI0NiwtMTY4MTEwMzMzNywtMTk1ODIwMzI4MCw3MDcxMTc3
-MjYsMjg3NjE3NTI1LDEyNDA5ODY4OTEsMTc5MzU5ODc3OCwxMD
-M2MDE4NTczLDEwNzI3NjEwOTEsLTEzOTczNzc3NDMsLTEwNDMx
-MzU0NTZdfQ==
+eyJoaXN0b3J5IjpbMTE0Nzk2NTI3MSwtMTI1NTc2MTcxMCwtNz
+A3NjIwMDI2LC04OTk1MTI2NTEsLTIxMzA2MDU4NDMsLTExODY4
+MzExNDUsMzEyNjkxOTMsMTUxMjQ1NTI1MiwzNTc1NTI1MzAsMT
+UzNDQwMzI0NiwtMTY4MTEwMzMzNywtMTk1ODIwMzI4MCw3MDcx
+MTc3MjYsMjg3NjE3NTI1LDEyNDA5ODY4OTEsMTc5MzU5ODc3OC
+wxMDM2MDE4NTczLDEwNzI3NjEwOTEsLTEzOTczNzc3NDMsLTEw
+NDMxMzU0NTZdfQ==
 -->
