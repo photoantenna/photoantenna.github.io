@@ -14,8 +14,10 @@ image:
 
 ### 個人的な今までのNHKとの関わり
 
-テレビを持たなくなったのはいつからだろうか？10年くらいは経つような気がする。東日本大震災の時には既にテレビが部屋に無かったのでそのくらいは経っているでしょう。ワンセグ見れる携帯も持っていないので実家から引っ越して初めてNHKの集金人が来た時には
+テレビを持たなくなったのはいつからだろうか？10年くらいは経つような気がする。東日本大震災の時には既にテレビが部屋に無かったのでそのくらいは経っているでしょう。ワンセグ見れる携帯も持っていないので実家から引っ越して初めてNHKの集金人が来た時には真面目に対応した時もあった。というか引っ越した情報ってどこから漏れてるんだろうなーっていう疑問があったねそういや。
+
+それまで集金人と相対したことがなかったのでどういうやりとりを
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjI4NjMxNSwxMDM2MDE4NTczLDEwNz
-I3NjEwOTEsLTEzOTczNzc3NDMsLTEwNDMxMzU0NTZdfQ==
+eyJoaXN0b3J5IjpbLTI4ODkxNTIzLDEwMzYwMTg1NzMsMTA3Mj
+c2MTA5MSwtMTM5NzM3Nzc0MywtMTA0MzEzNTQ1Nl19
 -->
