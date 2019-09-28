@@ -12,8 +12,10 @@ image:
   feature: fakenews.jpg
 ---
 
-### 
+### 個人的な今までのNHKとの関わり
+
+テレビを持たなくなったのはいつからだろうか？10年くらいは経つような気がする。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY3ODQ0MDAsMTAzNjAxODU3MywxMD
-cyNzYxMDkxLC0xMzk3Mzc3NzQzLC0xMDQzMTM1NDU2XX0=
+eyJoaXN0b3J5IjpbMTQ5ODg5MjY4NSwxMDM2MDE4NTczLDEwNz
+I3NjEwOTEsLTEzOTczNzc3NDMsLTEwNDMxMzU0NTZdfQ==
 -->
