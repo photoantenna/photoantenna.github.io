@@ -37,9 +37,9 @@ N国は定例会や臨時総会をyoutubeで生配信しスーパーチャット
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TcySouabLBM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-それ以外にも非常に多くの動画をアップしていて
+それ以外にも非常に多くの動画をアップしていて現役の国会議員の中で最も何をしているのか
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTg5ODI4MiwzMTI2OTE5MywxNTEyND
+eyJoaXN0b3J5IjpbLTE2OTY4OTQyMywzMTI2OTE5MywxNTEyND
 U1MjUyLDM1NzU1MjUzMCwxNTM0NDAzMjQ2LC0xNjgxMTAzMzM3
 LC0xOTU4MjAzMjgwLDcwNzExNzcyNiwyODc2MTc1MjUsMTI0MD
 k4Njg5MSwxNzkzNTk4Nzc4LDEwMzYwMTg1NzMsMTA3Mjc2MTA5
