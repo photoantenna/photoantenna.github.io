@@ -41,13 +41,13 @@ N国は定例会や臨時総会をyoutubeで生配信しスーパーチャット
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uZ1jxobS-Z8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QrpQ_JIo_l0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTU3NjE3MTAsLTcwNzYyMDAyNiwtOD
-k5NTEyNjUxLC0yMTMwNjA1ODQzLC0xMTg2ODMxMTQ1LDMxMjY5
-MTkzLDE1MTI0NTUyNTIsMzU3NTUyNTMwLDE1MzQ0MDMyNDYsLT
-E2ODExMDMzMzcsLTE5NTgyMDMyODAsNzA3MTE3NzI2LDI4NzYx
-NzUyNSwxMjQwOTg2ODkxLDE3OTM1OTg3NzgsMTAzNjAxODU3My
-wxMDcyNzYxMDkxLC0xMzk3Mzc3NzQzLC0xMDQzMTM1NDU2XX0=
-
+eyJoaXN0b3J5IjpbODQ3NDU5NDQ3LC0xMjU1NzYxNzEwLC03MD
+c2MjAwMjYsLTg5OTUxMjY1MSwtMjEzMDYwNTg0MywtMTE4Njgz
+MTE0NSwzMTI2OTE5MywxNTEyNDU1MjUyLDM1NzU1MjUzMCwxNT
+M0NDAzMjQ2LC0xNjgxMTAzMzM3LC0xOTU4MjAzMjgwLDcwNzEx
+NzcyNiwyODc2MTc1MjUsMTI0MDk4Njg5MSwxNzkzNTk4Nzc4LD
+EwMzYwMTg1NzMsMTA3Mjc2MTA5MSwtMTM5NzM3Nzc0MywtMTA0
+MzEzNTQ1Nl19
 -->
