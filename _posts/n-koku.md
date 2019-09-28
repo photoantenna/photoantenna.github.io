@@ -14,8 +14,8 @@ image:
 
 ### 個人的な今までのNHKとの関わり
 
-テレビを持たなくなったのはいつからだろうか？10年くらいは経つような気がする。東日本大震災の時には既にテレビが部屋に無かったのでそのくらいは経っているでしょう。
+テレビを持たなくなったのはいつからだろうか？10年くらいは経つような気がする。東日本大震災の時には既にテレビが部屋に無かったのでそのくらいは経っているでしょう。ワンセグ見れる携帯も持っていないので実家から引っ越して初めてNHKの集金人が来た時には
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQ2NDkzMjYsMTAzNjAxODU3MywxMD
-cyNzYxMDkxLC0xMzk3Mzc3NzQzLC0xMDQzMTM1NDU2XX0=
+eyJoaXN0b3J5IjpbMjA2NjI4NjMxNSwxMDM2MDE4NTczLDEwNz
+I3NjEwOTEsLTEzOTczNzc3NDMsLTEwNDMxMzU0NTZdfQ==
 -->
