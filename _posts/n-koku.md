@@ -23,9 +23,13 @@ image:
 
 ### 立花孝志氏の一貫性がすごい
 
-流行語大賞には絶対にノミネートされない流行語「NHKをぶっ壊す」というフレーズからもわかるとおり、目先(と言っても先は長いらしいが)の目標はNHKのスクランブル放送の実現。少なくとも2011年から動画で発信していることを知った。過去にyoutubeでアップしたがアカウントBAN
+流行語大賞には絶対にノミネートされない流行語「NHKをぶっ壊す」というフレーズからもわかるとおり、目先(と言っても先は長いらしいが)の目標はNHKのスクランブル放送の実現。少なくとも2011年から動画で発信していることを知った。過去に立花孝志氏がyoutubeでアップしていた動画をアーカイブしているチャンネルが出てきたようです。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3n5YZ0hQdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODM4MTMzNCwxMjQwOTg2ODkxLDE3OT
-M1OTg3NzgsMTAzNjAxODU3MywxMDcyNzYxMDkxLC0xMzk3Mzc3
-NzQzLC0xMDQzMTM1NDU2XX0=
+eyJoaXN0b3J5IjpbMjg3NjE3NTI1LDEyNDA5ODY4OTEsMTc5Mz
+U5ODc3OCwxMDM2MDE4NTczLDEwNzI3NjEwOTEsLTEzOTczNzc3
+NDMsLTEwNDMxMzU0NTZdfQ==
 -->
