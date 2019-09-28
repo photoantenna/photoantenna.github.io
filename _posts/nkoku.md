@@ -60,10 +60,10 @@ N国は定例会や臨時総会をyoutubeで生配信しスーパーチャット
 
 NHKのスクランブル放送が実現したら立花孝志氏は国会議員辞めると断言しているし立花孝志氏が今後どのような立場の人間になるかわからないけれど数字に強くて記憶力が良くて法律やたら詳しくてゼロから国会議員になれるほどの魅力がある人物なわけで非常に優秀な人であることは間違いない。そして何より正直な人物であるように感じる。私は正直そうな人が好きなんです。正しいか間違ってるかよりも正直かどうかを優先してしまっているかもしれない。間違わない人なんていないし気持ち良いじゃん正直な人ってさ。
 
-立花孝志氏がNHKを内部告発して14年。14年前から既得権益の破壊を目的として現在も活動し続けている。敵がめっちゃ多くて味方はかなり少なかっただろうに活動を続けてこれた精神力は半端ではない。本人の言葉を借りて簡単にまとめると「NHKで働いていて受信料から給料をいただいてしまったから」
+立花孝志氏がNHKを内部告発して14年。14年前から既得権益の破壊を目的として現在も活動し続けている。敵がめっちゃ多くて味方はかなり少なかっただろうに活動を続けてこれた精神力は半端ではない。本人の言葉を借りて簡単にまとめると**NHKで働いていて受信料から給料をいただいてしまったから**NHKを壊さなくてはならないってことだと思うんだけど
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CqhW3b_nox4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDU2NTA1MSw2MzIyNzMxNTcsMTc0OT
-MzNDY1MCwtMTk0MTkyNzYzLC0xNTg0ODU3MTk2XX0=
+eyJoaXN0b3J5IjpbNjkwODc1MDIzLDYzMjI3MzE1NywxNzQ5Mz
+M0NjUwLC0xOTQxOTI3NjMsLTE1ODQ4NTcxOTZdfQ==
 -->
