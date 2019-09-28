@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "N国の立花孝志代表は安全な政治家だと思うんですけど"
+title: "N国の立花孝志代表は安全でクリーンな政治家だと思うんですけど"
 permalink: n-koku
 excerpt: "NHKから国民を守る党の代表である立花孝志国会議員が発信している動画を最近よく見るのですが、彼の正直さには惹かれるものがあります。NHKをぶっ壊せるかどうかはわかりませんが個人的には彼を応援したい、そんな気持ちです。"
 categories: "日記"
@@ -33,11 +33,11 @@ image:
 
 ### 立花孝志氏の透明性がすごい
 
-
+N国は定例会や臨時総会をyoutubeで生配信しすーぱーちゃっｔ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyNjkxOTMsMTUxMjQ1NTI1MiwzNTc1NT
-I1MzAsMTUzNDQwMzI0NiwtMTY4MTEwMzMzNywtMTk1ODIwMzI4
-MCw3MDcxMTc3MjYsMjg3NjE3NTI1LDEyNDA5ODY4OTEsMTc5Mz
-U5ODc3OCwxMDM2MDE4NTczLDEwNzI3NjEwOTEsLTEzOTczNzc3
-NDMsLTEwNDMxMzU0NTZdfQ==
+eyJoaXN0b3J5IjpbNzU5MDIxMTM3LDMxMjY5MTkzLDE1MTI0NT
+UyNTIsMzU3NTUyNTMwLDE1MzQ0MDMyNDYsLTE2ODExMDMzMzcs
+LTE5NTgyMDMyODAsNzA3MTE3NzI2LDI4NzYxNzUyNSwxMjQwOT
+g2ODkxLDE3OTM1OTg3NzgsMTAzNjAxODU3MywxMDcyNzYxMDkx
+LC0xMzk3Mzc3NzQzLC0xMDQzMTM1NDU2XX0=
 -->
