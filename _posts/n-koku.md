@@ -27,9 +27,9 @@ image:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C3n5YZ0hQdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-あんまり顔は変わっていないが現在の立花孝志氏の印象からすると命を狙われるかもしれない恐怖心から涙を見せる姿というのはどこかギャップを感じ
+あんまり顔は変わっていないが現在の立花孝志氏の攻撃的な印象からすると命を狙われるかもしれない恐怖心から涙を見せる姿というのはどこかギャップを感じるね。この記事投稿してる2019年時点ならばNHKや電通が
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzA5NTEwMiwyODc2MTc1MjUsMTI0MD
-k4Njg5MSwxNzkzNTk4Nzc4LDEwMzYwMTg1NzMsMTA3Mjc2MTA5
-MSwtMTM5NzM3Nzc0MywtMTA0MzEzNTQ1Nl19
+eyJoaXN0b3J5IjpbNzA3MTE3NzI2LDI4NzYxNzUyNSwxMjQwOT
+g2ODkxLDE3OTM1OTg3NzgsMTAzNjAxODU3MywxMDcyNzYxMDkx
+LC0xMzk3Mzc3NzQzLC0xMDQzMTM1NDU2XX0=
 -->
