@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "N国の立花孝志代表は極めて安全でクリーンな政治家なんじゃないのって話"
+title: "N国の立花孝志代表は割と模範的な政治家なんじゃないのって話"
 permalink: nkoku
 excerpt: "NHKから国民を守る党の代表である立花孝志国会議員が発信している動画を最近よく見るのですが、彼の正直さには惹かれるものがあります。NHKをぶっ壊せるかどうかはわかりませんが個人的には彼を応援したい、そんな気持ちです。"
 categories: "日記"
@@ -55,7 +55,7 @@ N国は定例会や臨時総会をyoutubeで生配信しスーパーチャット
 
 要は本当になんでもかんでも自分に関係する話題は反対でも賛成でも意見を言うことで透明性を保持しているのね。これは意見しない政治家に対する問題提起でもあるのかな？意見の無い、言わない政治家に価値あるの？って感じで。確かに意見言わないんだったら私でもできるしなぁー。
 
-私人逮捕やマツコ突撃はやりすぎなんじゃないのって
+
 
 ### 正しく能力を行使する者の邪魔をするな
 
@@ -69,7 +69,7 @@ NHKのスクランブル放送が実現したら立花孝志氏は国会議員�
 
 2011年の動画内の泣き顔とマツコ突撃動画内の泣き顔、不安の涙が年月をかけて嬉し涙に変わってドラマを感じますねぇー。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTU0NzYyNTEsLTk3MjUzNDExOCwtMT
-QwMDE4NDM1MywxOTc2NDI4NDY0LDYzMjI3MzE1NywxNzQ5MzM0
-NjUwLC0xOTQxOTI3NjMsLTE1ODQ4NTcxOTZdfQ==
+eyJoaXN0b3J5IjpbLTc4ODExMjM1NiwtOTcyNTM0MTE4LC0xND
+AwMTg0MzUzLDE5NzY0Mjg0NjQsNjMyMjczMTU3LDE3NDkzMzQ2
+NTAsLTE5NDE5Mjc2MywtMTU4NDg1NzE5Nl19
 -->
