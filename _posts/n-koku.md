@@ -6,12 +6,12 @@ excerpt: "NHKから国民を守る党の代表である立花孝志国会議員�
 categories: "日記"
 amazon: true
 mokuji: true
-tags: "Chromebook"
-keywords: "chromebook, crostini, linux, steam, android"
+tags: "人物 語りたい"
+keywords: "NHK, N国, 立花孝志, ジャーナリスト, N国党"
 image:
   feature: fakenews.jpg
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDU3NTk1MCwxMDcyNzYxMDkxLC0xMz
+eyJoaXN0b3J5IjpbLTg5ODQ5MTU5OSwxMDcyNzYxMDkxLC0xMz
 k3Mzc3NzQzLC0xMDQzMTM1NDU2XX0=
 -->
