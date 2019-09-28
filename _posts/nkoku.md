@@ -56,16 +56,17 @@ N国は定例会や臨時総会をyoutubeで生配信しスーパーチャット
 要は本当になんでもかんでも自分に関係する話題は反対でも賛成でも意見を言うことで透明性を保持しているのね。これは意見しない政治家に対する問題提起でもあるのかな？意見の無い、言わない政治家に価値あるの？って感じで。確かに意見言わないんだったら私でもできるしなぁー。
 
 
-### 能力のある人間の邪魔はするな
+### 正しく能力を行使する者の邪魔をするな
 
 NHKのスクランブル放送が実現したら立花孝志氏は国会議員辞めると断言しているし立花孝志氏が今後どのような立場の人間になるかわからないけれど数字に強くて記憶力が良くて法律やたら詳しくてゼロから国会議員になれるほどの魅力がある人物なわけで非常に優秀な人であることは間違いない。そして何より正直な人物であるように感じる。私は正直そうな人が好きなんです。正しいか間違ってるかよりも正直かどうかを優先してしまっているかもしれない。間違わない人なんていないし気持ち良いじゃん正直な人ってさ。
 
 立花孝志氏がNHKを内部告発して14年。14年前から既得権益の破壊を目的として現在も活動し続けている。敵がめっちゃ多くて味方はかなり少なかっただろうに活動を続けてこれた精神力は半端ではない。本人の言葉を借りて簡単にまとめると**NHKで働いていて受信料から給料をいただいてしまったから**NHKを壊さなくてはならないってことだと思うんだけどそれってもはや贖罪というか大和魂よね。
 
-立花孝志氏は動画内で「能力を」
+立花孝志氏は動画内で「能力がある者はそれを正しく行使する責務がある」と白い巨塔のセリフを引用することが時々あるが、
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CqhW3b_nox4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjQyODQ2NCw2MzIyNzMxNTcsMTc0OT
-MzNDY1MCwtMTk0MTkyNzYzLC0xNTg0ODU3MTk2XX0=
+eyJoaXN0b3J5IjpbLTI1NDU2OTMxMiwxOTc2NDI4NDY0LDYzMj
+I3MzE1NywxNzQ5MzM0NjUwLC0xOTQxOTI3NjMsLTE1ODQ4NTcx
+OTZdfQ==
 -->
