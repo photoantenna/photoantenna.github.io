@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "N国の立花孝志代表は安全でクリーンな政治家だと思うんですけど"
+title: "N国の立花孝志代表は極めて安全でクリーンな政治家なんじゃないのって話"
 permalink: nkoku
 excerpt: "NHKから国民を守る党の代表である立花孝志国会議員が発信している動画を最近よく見るのですが、彼の正直さには惹かれるものがあります。NHKをぶっ壊せるかどうかはわかりませんが個人的には彼を応援したい、そんな気持ちです。"
 categories: "日記"
@@ -55,12 +55,14 @@ N国は定例会や臨時総会をyoutubeで生配信しスーパーチャット
 
 要は本当になんでもかんでも自分に関係する話題は反対でも賛成でも意見を言うことで透明性を保持しているのね。これは意見しない政治家に対する問題提起でもあるのかな？意見の無い、言わない政治家に価値あるの？って感じで。確かに意見言わないんだったら私でもできるしなぁー。
 
+
+
 ### 能力のある人間の邪魔はするな
 
 NHKのスクランブル放送が実現したら立花孝志氏は国会議員辞めると断言しているし立花孝志氏が今後どのような立場の人間になるかわからないけれど数字に強くて記憶力が良くてゼロから国会議員になれるほどの魅力がある人物なわけで非常に優秀な人であることは間違いない。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CqhW3b_nox4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA0NDk5MzQsLTE5NDE5Mjc2MywtMT
-U4NDg1NzE5Nl19
+eyJoaXN0b3J5IjpbMTc0OTMzNDY1MCwtMTk0MTkyNzYzLC0xNT
+g0ODU3MTk2XX0=
 -->
