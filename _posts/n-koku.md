@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "N国の立花孝志代表"
+title: "N国の立花孝志代表は"
 permalink: n-koku
 excerpt: "NHKから国民を守る党の代表である立花孝志国会議員が発信している動画を最近よく見るのですが、彼の正直さには惹かれるものがあります。NHKをぶっ壊せるかどうかはわかりませんが個人的には彼を応援したい、そんな気持ちです。"
 categories: "日記"
@@ -31,9 +31,9 @@ image:
 
 そして動画を編集しないスタイルも2011年から現在も続いている。このスタイルこそ立花孝志氏の最も大きな主張なわけです多分。事実から一部を切り取って情報操作して世間をコントロールするメディアの在り方を批判する立場なわけだから自分の言葉を発信する際にカットしてしまっては全く動画の意味が無くなってしまう。立花孝志氏が鬱病を発症したきっかけもNHK職員の横領問題で会長が国会に呼ばれ答弁した映像がカットされていたことがショックだったから。メディアを監視する役割のNHKが監視の目を逃れるような行為に及んだことに衝撃を受けたということなんでしょうかね。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjQ1NTI1MiwzNTc1NTI1MzAsMTUzND
-QwMzI0NiwtMTY4MTEwMzMzNywtMTk1ODIwMzI4MCw3MDcxMTc3
-MjYsMjg3NjE3NTI1LDEyNDA5ODY4OTEsMTc5MzU5ODc3OCwxMD
-M2MDE4NTczLDEwNzI3NjEwOTEsLTEzOTczNzc3NDMsLTEwNDMx
-MzU0NTZdfQ==
+eyJoaXN0b3J5IjpbNjA3NDI5MDIxLDE1MTI0NTUyNTIsMzU3NT
+UyNTMwLDE1MzQ0MDMyNDYsLTE2ODExMDMzMzcsLTE5NTgyMDMy
+ODAsNzA3MTE3NzI2LDI4NzYxNzUyNSwxMjQwOTg2ODkxLDE3OT
+M1OTg3NzgsMTAzNjAxODU3MywxMDcyNzYxMDkxLC0xMzk3Mzc3
+NzQzLC0xMDQzMTM1NDU2XX0=
 -->
