@@ -66,9 +66,9 @@ NHKのスクランブル放送が実現したら立花孝志氏は国会議員�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CqhW3b_nox4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2011年の動画内で流した涙とは意味が全く違うマツコ突撃動画。
+2011年の動画内の泣き顔とマツコ突撃動画内の
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzcxOTc3MDEsLTk3MjUzNDExOCwtMT
-QwMDE4NDM1MywxOTc2NDI4NDY0LDYzMjI3MzE1NywxNzQ5MzM0
-NjUwLC0xOTQxOTI3NjMsLTE1ODQ4NTcxOTZdfQ==
+eyJoaXN0b3J5IjpbMTkyMDk1MDA0MCwtOTcyNTM0MTE4LC0xND
+AwMTg0MzUzLDE5NzY0Mjg0NjQsNjMyMjczMTU3LDE3NDkzMzQ2
+NTAsLTE5NDE5Mjc2MywtMTU4NDg1NzE5Nl19
 -->
