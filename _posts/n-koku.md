@@ -37,11 +37,11 @@ N国は定例会や臨時総会をyoutubeで生配信しスーパーチャット
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TcySouabLBM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-それ以外にも非常に多くの動画をアップしていて現役の国会議員の中で最も何をしているのか
+それ以外にも非常に多くの動画をアップしていて現役の国会議員の中で最も何をしているのか把握できる政治家と言えるでしょう。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY4OTQyMywzMTI2OTE5MywxNTEyND
-U1MjUyLDM1NzU1MjUzMCwxNTM0NDAzMjQ2LC0xNjgxMTAzMzM3
-LC0xOTU4MjAzMjgwLDcwNzExNzcyNiwyODc2MTc1MjUsMTI0MD
-k4Njg5MSwxNzkzNTk4Nzc4LDEwMzYwMTg1NzMsMTA3Mjc2MTA5
-MSwtMTM5NzM3Nzc0MywtMTA0MzEzNTQ1Nl19
+eyJoaXN0b3J5IjpbLTExODY4MzExNDUsMzEyNjkxOTMsMTUxMj
+Q1NTI1MiwzNTc1NTI1MzAsMTUzNDQwMzI0NiwtMTY4MTEwMzMz
+NywtMTk1ODIwMzI4MCw3MDcxMTc3MjYsMjg3NjE3NTI1LDEyND
+A5ODY4OTEsMTc5MzU5ODc3OCwxMDM2MDE4NTczLDEwNzI3NjEw
+OTEsLTEzOTczNzc3NDMsLTEwNDMxMzU0NTZdfQ==
 -->
