@@ -55,7 +55,7 @@ N国は定例会や臨時総会をyoutubeで生配信しスーパーチャット
 
 要は本当になんでもかんでも自分に関係する話題は反対でも賛成でも意見を言うことで透明性を保持しているのね。これは意見しない政治家に対する問題提起でもあるのかな？意見の無い、言わない政治家に価値あるの？って感じで。確かに意見言わないんだったら私でもできるしなぁー。
 
-
+立花孝志氏ｇ
 
 ### 能力のある人間の邪魔はするな
 
@@ -65,6 +65,6 @@ NHKのスクランブル放送が実現したら立花孝志氏は国会議員�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CqhW3b_nox4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyMjczMTU3LDE3NDkzMzQ2NTAsLTE5ND
-E5Mjc2MywtMTU4NDg1NzE5Nl19
+eyJoaXN0b3J5IjpbOTAzNzM1NDM3LDYzMjI3MzE1NywxNzQ5Mz
+M0NjUwLC0xOTQxOTI3NjMsLTE1ODQ4NTcxOTZdfQ==
 -->
