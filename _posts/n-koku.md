@@ -43,9 +43,11 @@ N国は定例会や臨時総会をyoutubeで生配信しスーパーチャット
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QrpQ_JIo_l0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-国民の意見をアンケートによって直接政治に反映させるための土台として、まず議題に対する知識を多くの人々が共有出来ていないときちんと反対も賛成もできない。それでは直接民主主義とは言い難いので立花孝志氏は何でもかんでも自分のやること考えていることを公開するのでしょう。これクリーンと言わずに何と言うのでｓ
+国民の意見をアンケートによって直接政治に反映させるための土台として、まず議題に対する知識を多くの人々が共有出来ていないときちんと反対も賛成もできない。それでは直接民主主義とは言い難いので立花孝志氏は何でもかんでも自分のやること考えていることを公開するのでしょう。
+
+そんで
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzU0NTUzOTcsLTEyNTU3NjE3MTAsLT
+eyJoaXN0b3J5IjpbLTE0MTg1MDkzMDQsLTEyNTU3NjE3MTAsLT
 cwNzYyMDAyNiwtODk5NTEyNjUxLC0yMTMwNjA1ODQzLC0xMTg2
 ODMxMTQ1LDMxMjY5MTkzLDE1MTI0NTUyNTIsMzU3NTUyNTMwLD
 E1MzQ0MDMyNDYsLTE2ODExMDMzMzcsLTE5NTgyMDMyODAsNzA3
