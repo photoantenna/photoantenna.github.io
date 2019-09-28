@@ -23,9 +23,9 @@ image:
 
 ### 立花孝志氏の一貫性がすごい
 
-流行語大賞には絶対にノミネートされない流行語「NHKをぶっ壊す」というフレーズからもわかるとおり、目先(と言っても先は長いが)の
+流行語大賞には絶対にノミネートされない流行語「NHKをぶっ壊す」というフレーズからもわかるとおり、目先(と言っても先は長いが)の目標はNHKのスクランブル放送の実現。少なくとも2011年から目標に掲げていることがわかった。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk2MDYwMjUsMTc5MzU5ODc3OCwxMD
-M2MDE4NTczLDEwNzI3NjEwOTEsLTEzOTczNzc3NDMsLTEwNDMx
-MzU0NTZdfQ==
+eyJoaXN0b3J5IjpbMTI0MDk4Njg5MSwxNzkzNTk4Nzc4LDEwMz
+YwMTg1NzMsMTA3Mjc2MTA5MSwtMTM5NzM3Nzc0MywtMTA0MzEz
+NTQ1Nl19
 -->
