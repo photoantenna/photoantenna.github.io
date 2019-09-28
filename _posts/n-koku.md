@@ -27,10 +27,10 @@ image:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C3n5YZ0hQdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-あんまり顔は変わっていないが現在の立花孝志氏の攻撃的な印象からすると命を狙われるかもしれない恐怖心から涙を見せる姿というのはどこかギャップを感じるね。この記事投稿してる2019年時点ならばNHKや電通の黒い部分は多くの人が知るところだけど2011年に電通批判をして共感してくれる一般市民はどれほどいたのだろうか？当然、電通側であるテレビが彼を取り上げるわけもなしでフィルターを通さず不特定多数に発信できるの場所は
+あんまり顔は変わっていないが現在の立花孝志氏の攻撃的な印象からすると命を狙われるかもしれない恐怖心から涙を見せる姿というのはどこかギャップを感じるね。この記事投稿してる2019年時点ならばNHKや電通の黒い部分は多くの人が知るところだけど2011年に電通批判をして共感してくれる一般市民はどれほどいたのだろうか？当然、電通側であるテレビが彼を取り上げるわけもなしでフィルターを通さず不特定多数に発信できるの場所は２ちゃんねるとyoutubeくらいだったんでしょうね。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NDc5NDczNiwtMTk1ODIwMzI4MCw3MD
-cxMTc3MjYsMjg3NjE3NTI1LDEyNDA5ODY4OTEsMTc5MzU5ODc3
-OCwxMDM2MDE4NTczLDEwNzI3NjEwOTEsLTEzOTczNzc3NDMsLT
-EwNDMxMzU0NTZdfQ==
+eyJoaXN0b3J5IjpbLTE2ODExMDMzMzcsLTE5NTgyMDMyODAsNz
+A3MTE3NzI2LDI4NzYxNzUyNSwxMjQwOTg2ODkxLDE3OTM1OTg3
+NzgsMTAzNjAxODU3MywxMDcyNzYxMDkxLC0xMzk3Mzc3NzQzLC
+0xMDQzMTM1NDU2XX0=
 -->
