@@ -37,12 +37,12 @@ N国は定例会や臨時総会をyoutubeで生配信しスーパーチャット
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TcySouabLBM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-それ以外にも非常に多くの動画をアップしていて現役の国会議員の中で最も何をしていて何を考えているのか把握できる政治家と言えるでしょう。立花孝志氏はNHK破壊の先の直接民主制の実現を目指しているので国民から意見を募るためには意見を募る政治家自体が
+それ以外にも非常に多くの動画をアップしていて現役の国会議員の中で最も何をしていて何を考えているのか把握できる政治家と言えるでしょう。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTUxMjY1MSwtMjEzMDYwNTg0MywtMT
-E4NjgzMTE0NSwzMTI2OTE5MywxNTEyNDU1MjUyLDM1NzU1MjUz
-MCwxNTM0NDAzMjQ2LC0xNjgxMTAzMzM3LC0xOTU4MjAzMjgwLD
-cwNzExNzcyNiwyODc2MTc1MjUsMTI0MDk4Njg5MSwxNzkzNTk4
-Nzc4LDEwMzYwMTg1NzMsMTA3Mjc2MTA5MSwtMTM5NzM3Nzc0My
-wtMTA0MzEzNTQ1Nl19
+eyJoaXN0b3J5IjpbMzk4NzMxMjc5LC04OTk1MTI2NTEsLTIxMz
+A2MDU4NDMsLTExODY4MzExNDUsMzEyNjkxOTMsMTUxMjQ1NTI1
+MiwzNTc1NTI1MzAsMTUzNDQwMzI0NiwtMTY4MTEwMzMzNywtMT
+k1ODIwMzI4MCw3MDcxMTc3MjYsMjg3NjE3NTI1LDEyNDA5ODY4
+OTEsMTc5MzU5ODc3OCwxMDM2MDE4NTczLDEwNzI3NjEwOTEsLT
+EzOTczNzc3NDMsLTEwNDMxMzU0NTZdfQ==
 -->
