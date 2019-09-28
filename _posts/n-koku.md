@@ -35,9 +35,11 @@ image:
 
 N国は定例会や臨時総会をyoutubeで生配信しスーパーチャットも開放している。お金の使いみちや動向の進捗を報告し誰でもいつでも見れるようにしている。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3n5YZ0hQdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TcySouabLBM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+それ以外にも非常に多くの動画をアップしていて
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTA5NTAzNywzMTI2OTE5MywxNTEyND
+eyJoaXN0b3J5IjpbMTM0OTg5ODI4MiwzMTI2OTE5MywxNTEyND
 U1MjUyLDM1NzU1MjUzMCwxNTM0NDAzMjQ2LC0xNjgxMTAzMzM3
 LC0xOTU4MjAzMjgwLDcwNzExNzcyNiwyODc2MTc1MjUsMTI0MD
 k4Njg5MSwxNzkzNTk4Nzc4LDEwMzYwMTg1NzMsMTA3Mjc2MTA5
