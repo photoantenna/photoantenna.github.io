@@ -47,9 +47,9 @@ N国は定例会や臨時総会をyoutubeで生配信しスーパーチャット
 
 そんでこの透明性は絶大な防御力を時には発揮する。週刊誌による印象操作攻撃を未然に防ぐ結果になることもあった。
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hrqZfzJ70Mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzY4MDAwNSwtMTI1NTc2MTcxMCwtNz
+eyJoaXN0b3J5IjpbMTgxNDAwODkzMiwtMTI1NTc2MTcxMCwtNz
 A3NjIwMDI2LC04OTk1MTI2NTEsLTIxMzA2MDU4NDMsLTExODY4
 MzExNDUsMzEyNjkxOTMsMTUxMjQ1NTI1MiwzNTc1NTI1MzAsMT
 UzNDQwMzI0NiwtMTY4MTEwMzMzNywtMTk1ODIwMzI4MCw3MDcx
