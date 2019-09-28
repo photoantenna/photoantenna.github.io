@@ -37,12 +37,16 @@ N国は定例会や臨時総会をyoutubeで生配信しスーパーチャット
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TcySouabLBM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-それ以外にも非常に多くの動画をアップしていて現役の国会議員の中で最も何をしていて何を考えているのか把握できる政治家と言えるでしょう。
+それ以外にも非常に多くの動画をアップしていて現役の国会議員の中で最も何をしていて何を考えているのか把握できる政治家と言えるでしょう。そしてNHK破壊の先に見える直接民主制を実践しようとyoutubeを使って時にアンケートを募ったりもする。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uZ1jxobS-Z8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4NzMxMjc5LC04OTk1MTI2NTEsLTIxMz
-A2MDU4NDMsLTExODY4MzExNDUsMzEyNjkxOTMsMTUxMjQ1NTI1
-MiwzNTc1NTI1MzAsMTUzNDQwMzI0NiwtMTY4MTEwMzMzNywtMT
-k1ODIwMzI4MCw3MDcxMTc3MjYsMjg3NjE3NTI1LDEyNDA5ODY4
-OTEsMTc5MzU5ODc3OCwxMDM2MDE4NTczLDEwNzI3NjEwOTEsLT
-EzOTczNzc3NDMsLTEwNDMxMzU0NTZdfQ==
+eyJoaXN0b3J5IjpbLTcwNzYyMDAyNiwtODk5NTEyNjUxLC0yMT
+MwNjA1ODQzLC0xMTg2ODMxMTQ1LDMxMjY5MTkzLDE1MTI0NTUy
+NTIsMzU3NTUyNTMwLDE1MzQ0MDMyNDYsLTE2ODExMDMzMzcsLT
+E5NTgyMDMyODAsNzA3MTE3NzI2LDI4NzYxNzUyNSwxMjQwOTg2
+ODkxLDE3OTM1OTg3NzgsMTAzNjAxODU3MywxMDcyNzYxMDkxLC
+0xMzk3Mzc3NzQzLC0xMDQzMTM1NDU2XX0=
 -->
