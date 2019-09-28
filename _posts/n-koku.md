@@ -27,9 +27,10 @@ image:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C3n5YZ0hQdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-あんまり顔は変わっていないが現在の立花孝志氏の攻撃的な印象からすると命を狙われるかもしれない恐怖心から涙を見せる姿というのはどこかギャップを感じるね。この記事投稿してる2019年時点ならばNHKや電通が
+あんまり顔は変わっていないが現在の立花孝志氏の攻撃的な印象からすると命を狙われるかもしれない恐怖心から涙を見せる姿というのはどこかギャップを感じるね。この記事投稿してる2019年時点ならばNHKや電通の黒い部分は多くの人が知るところだけど2011年に電通批判をして共感してくれる一般市民はどれほどいたのだろうか？
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3MTE3NzI2LDI4NzYxNzUyNSwxMjQwOT
-g2ODkxLDE3OTM1OTg3NzgsMTAzNjAxODU3MywxMDcyNzYxMDkx
-LC0xMzk3Mzc3NzQzLC0xMDQzMTM1NDU2XX0=
+eyJoaXN0b3J5IjpbLTE5NTgyMDMyODAsNzA3MTE3NzI2LDI4Nz
+YxNzUyNSwxMjQwOTg2ODkxLDE3OTM1OTg3NzgsMTAzNjAxODU3
+MywxMDcyNzYxMDkxLC0xMzk3Mzc3NzQzLC0xMDQzMTM1NDU2XX
+0=
 -->
