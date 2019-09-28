@@ -62,11 +62,11 @@ NHKのスクランブル放送が実現したら立花孝志氏は国会議員�
 
 立花孝志氏がNHKを内部告発して14年。14年前から既得権益の破壊を目的として現在も活動し続けている。敵がめっちゃ多くて味方はかなり少なかっただろうに活動を続けてこれた精神力は半端ではない。本人の言葉を借りて簡単にまとめると**NHKで働いていて受信料から給料をいただいてしまったから**NHKを壊さなくてはならないってことだと思うんだけどそれってもはや贖罪というか大和魂よね。
 
-立花孝志氏は動画内で「能力がある者はそれを正しく行使する責務がある」と白い巨塔のセリフを引用することが時々あるが、おそらく能力を持っていないだろう私はそういう人の邪魔はしてはいけないと思う。テクノロジーにせよ社会システムにせよ、過去に人類史で起こった難題を解決してきたのはおそらくごく一部の天才
+立花孝志氏は動画内で「能力がある者はそれを正しく行使する責務がある」と白い巨塔のセリフを引用することが時々あるが、おそらく能力を持っていないだろう私はそういう人の邪魔はしてはいけないと思う。テクノロジーにせよ社会システムにせよ、過去に人類史で起こった難題を解決してきたのはおそらくごく一部の天才が必死こいたからだと私は考えているので、立花孝志氏がその類の人物かどうかはわからないけれど
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CqhW3b_nox4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTY1NTk3NCwxOTc2NDI4NDY0LDYzMj
-I3MzE1NywxNzQ5MzM0NjUwLC0xOTQxOTI3NjMsLTE1ODQ4NTcx
-OTZdfQ==
+eyJoaXN0b3J5IjpbLTE3NTEwNjQ2OTQsMTk3NjQyODQ2NCw2Mz
+IyNzMxNTcsMTc0OTMzNDY1MCwtMTk0MTkyNzYzLC0xNTg0ODU3
+MTk2XX0=
 -->
