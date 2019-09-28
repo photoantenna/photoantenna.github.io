@@ -42,8 +42,10 @@ N国は定例会や臨時総会をyoutubeで生配信しスーパーチャット
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uZ1jxobS-Z8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QrpQ_JIo_l0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+国民の意見をアンケートによって直接政治に反映させるための土台として、まず議題に対する知識をきょうゆう
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3NDU5NDQ3LC0xMjU1NzYxNzEwLC03MD
+eyJoaXN0b3J5IjpbMTA0NDMyNDg2LC0xMjU1NzYxNzEwLC03MD
 c2MjAwMjYsLTg5OTUxMjY1MSwtMjEzMDYwNTg0MywtMTE4Njgz
 MTE0NSwzMTI2OTE5MywxNTEyNDU1MjUyLDM1NzU1MjUzMCwxNT
 M0NDAzMjQ2LC0xNjgxMTAzMzM3LC0xOTU4MjAzMjgwLDcwNzEx
