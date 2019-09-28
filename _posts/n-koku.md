@@ -21,11 +21,11 @@ image:
 実家は普通にテレビがあるので私の親は受信料払ってると思うけど私はNHKに受信料を払わなければならない立場になったことがないのでこれまでNHKに1円もお金を払ったことがありません。なのでもしN国がスクランブル放送を実現できても目に見える形で私に恩恵は無いと先に言っておきます。その上で立花孝志氏を支持というか応援しようと思い至りました。N国を、ではなくて今のところ立花孝志氏個人を応援する感じ。
 けどもし今後ネット繋がってたら受信料支払い義務が発生するとかになったら意味わからなすぎるのでN国を全面支持しますｗ
 
-### 立花孝志の一貫性がすごい
+### 立花孝志氏の一貫性がすごい
 
-
+流行語大賞には絶対にノミネートされない流行語「NHKをぶっ壊す」というフレーズからもわかるとおり、目先(と言っても先は長いが)の
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MDE5MjAwNCwxNzkzNTk4Nzc4LDEwMz
-YwMTg1NzMsMTA3Mjc2MTA5MSwtMTM5NzM3Nzc0MywtMTA0MzEz
-NTQ1Nl19
+eyJoaXN0b3J5IjpbLTE4NTk2MDYwMjUsMTc5MzU5ODc3OCwxMD
+M2MDE4NTczLDEwNzI3NjEwOTEsLTEzOTczNzc3NDMsLTEwNDMx
+MzU0NTZdfQ==
 -->
