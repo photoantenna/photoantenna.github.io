@@ -57,9 +57,10 @@ N国は定例会や臨時総会をyoutubeで生配信しスーパーチャット
 
 ### 能力のある人間の邪魔はするな
 
-NHKのスクランブル放送が実現したら立花孝志氏は国会議員辞めると断言しているし立花孝志氏が今後どのような立場の人間になるかわからないけれど数字に強くて記憶力が良くてゼロから国会議員になれるほどの魅力がある人物なわけで非常に優秀な人であることは間違いない。既得権益に戦い慣れているとでも言うかねｗ
+NHKのスクランブル放送が実現したら立花孝志氏は国会議員辞めると断言しているし立花孝志氏が今後どのような立場の人間になるかわからないけれど数字に強くて記憶力が良くてゼロから国会議員になれるほどの魅力がある人物なわけで非常に優秀な人であることは間違いない。
 
-彼の理想に追従することで吉と出るか凶と出るか
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CqhW3b_nox4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDE5Mjc2MywtMTU4NDg1NzE5Nl19
+eyJoaXN0b3J5IjpbLTEzNDA0NDk5MzQsLTE5NDE5Mjc2MywtMT
+U4NDg1NzE5Nl19
 -->
