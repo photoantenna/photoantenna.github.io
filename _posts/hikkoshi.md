@@ -22,8 +22,8 @@ image:
 
 ### 階層をものともしないヤマトの冷蔵庫運搬スキル
 
-実家の2階にある約70kgほどの大きめ冷蔵庫。高さは170cmくらいのもの。
+実家の2階にある約70kgほどの大きめ冷蔵庫。高さは170cmくらいのもの。エレベータ付きの豪邸じゃないので階段で降りなければいけないんだけど
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Nzg5NjYxNywtOTc3MjA3NDQ3LC0zMz
-UxMzE3NTNdfQ==
+eyJoaXN0b3J5IjpbLTEzMjQ5MjM2MjYsLTk3NzIwNzQ0NywtMz
+M1MTMxNzUzXX0=
 -->
