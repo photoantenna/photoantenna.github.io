@@ -26,8 +26,8 @@ image:
 
 ### まるでパズルを解くかのようにしまい込む日通の収納スキル
 
-単身パックは決まったボックスに
+日通の単身パックLは104×108×175cmの枠内に荷物を収める引っ越し方法だけど荷物自体の形状に
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwNTk5MDQzLDYzNTQ5MTIzLC05NzcyMD
+eyJoaXN0b3J5IjpbMTEyMDc1MTgwLDYzNTQ5MTIzLC05NzcyMD
 c0NDcsLTMzNTEzMTc1M119
 -->
