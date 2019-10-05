@@ -14,7 +14,7 @@ image:
 
 <div id="mokuji"><span>もくじ</span></div>
 
-直近半年間で3回くらい引っ越し
+直近半年間で3回くらい引っ越し経験したんだけど距離がそんなに遠くなかったり一時的な引っ越しで家財を厳選して運んだりしていたので自分の車で運べる文
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODk3NDE3NzFdfQ==
+eyJoaXN0b3J5IjpbMjE0NzQ1Njg3MF19
 -->
