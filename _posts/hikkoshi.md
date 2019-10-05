@@ -2,17 +2,17 @@
 layout: post
 title: "大手引っ越し作業スタッフの所作が素敵"
 permalink: hikkoshi
-excerpt: "Chromebookがブラウザ専用機だというのは過去の話。現在ではハイスペック機が出揃いChromeOSのアップデートも重なった結果、linuxアプリが使えるようになりChromebookでも動画編集と多くのゲームで遊べる端末へと進化しました。しかしながらそれらを利用するためにはいくつかの"
+excerpt: ""
 categories: "経験"
 amazon: true
 mokuji: true
-tags: "Chromebook"
-keywords: "chromebook, crostini, linux, steam, android"
+tags: "日記"
+keywords: "ヤマトホームコンビニエンス, 日本通運, 単身パック, 引っ越し, 物流"
 image:
   feature: hikkoshi.jpg
 ---
 
 <div id="mokuji"><span>もくじ</span></div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4ODIzODQxXX0=
+eyJoaXN0b3J5IjpbMjEyNTQ2Mzk2M119
 -->
