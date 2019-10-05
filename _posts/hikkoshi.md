@@ -2,7 +2,7 @@
 layout: post
 title: "大手引っ越し作業スタッフの所作が素敵"
 permalink: hikkoshi
-excerpt: ""
+excerpt: "福島県から長野県に引っ越すために日本通運のたん"
 categories: "経験"
 amazon: true
 mokuji: true
@@ -14,5 +14,5 @@ image:
 
 <div id="mokuji"><span>もくじ</span></div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTQ2Mzk2M119
+eyJoaXN0b3J5IjpbLTkyOTE0ODEzNF19
 -->
