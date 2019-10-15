@@ -24,9 +24,11 @@ image:
  - 当て逃げ等の相手が特定出来ない場合の車両同士の事故
  - 相手が特定できる場合の車両同士の事故
  - 盗難
+ - 火災、爆発、飛来物の衝突やいたずら、落書き等の損害
+ - 台風、竜巻、洪水、高潮
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjAxMTAwOSwtMTkyNjAxNTYxMCwtMT
-QzNjY1NTEyNF19
+eyJoaXN0b3J5IjpbNzkzNDUyMDQ0LC0xOTI2MDE1NjEwLC0xND
+M2NjU1MTI0XX0=
 -->
