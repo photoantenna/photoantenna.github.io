@@ -16,7 +16,8 @@ image:
 
 ### 車の自然災害は車両保険加入が補償の条件
 
-自分の車が損害を受けた場合に補償される車両保険は主に2種類に分かれていて、自損事故を補償
+自分の車が損害を受けた場合に補償される車両保険は2種類に分かれていて、自損事故を担保するかしないかを選ぶことが出来て保険料もそれなりに変わっていきます。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTE5MDQ1MCwtMTQzNjY1NTEyNF19
+eyJoaXN0b3J5IjpbLTE3NTE5Njg0NzEsLTE0MzY2NTUxMjRdfQ
+==
 -->
