@@ -34,8 +34,10 @@ image:
  - 火災、爆発、飛来物の衝突やいたずら、落書き等の損害
  - 台風、竜巻、洪水、高潮
 
-つまり一般型と車対車(エコノミー型)の違いは自損と当て逃げのみです。なので
+つまり一般型と車対車(エコノミー型)の違いは自損と当て逃げのみです。なので車両同士の事故を起こしたらすぐに警察を呼んで当事者を明確にしておきましょう。
+
+自然災害時の保険金額算定方法は
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjMyMjc2MiwtMTkyNjAxNTYxMCwtMT
-QzNjY1NTEyNF19
+eyJoaXN0b3J5IjpbLTE2NjI4MTEwMTEsLTE5MjYwMTU2MTAsLT
+E0MzY2NTUxMjRdfQ==
 -->
