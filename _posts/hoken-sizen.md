@@ -12,7 +12,9 @@ image:
 
 <div id="mokuji"><span>もくじ</span></div>
 
+### 車の自然災害は車両保険加入が補償の条件です
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3MzYyMzU2LC0xNDM2NjU1MTI0XX0=
+eyJoaXN0b3J5IjpbMTU5ODE4NDE3NywtMTQzNjY1NTEyNF19
 -->
