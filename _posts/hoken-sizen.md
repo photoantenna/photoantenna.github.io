@@ -49,7 +49,9 @@ image:
 ### 火災保険は火災、風災以外はオプション
 
 火災保険の基本補償範囲は火災と風災のみです。風災には雹、雪災も含まれています。水災はオプションなので大雨や台風の浸水被害や雨による土砂崩れの被害も水災を補償するプランに入っていないダメです。
+
+水災の被害額の算出は
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTU5NTIzMiwtMTI4MTUzODA5NSwtMT
-kyNjAxNTYxMCwtMTQzNjY1NTEyNF19
+eyJoaXN0b3J5IjpbLTE5MDU2NzI3MzgsLTEyODE1MzgwOTUsLT
+E5MjYwMTU2MTAsLTE0MzY2NTUxMjRdfQ==
 -->
