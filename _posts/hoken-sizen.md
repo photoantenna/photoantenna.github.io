@@ -62,8 +62,8 @@ image:
 
 では自然災害に遭って建物と家財がめちゃくちゃになった場合、誰が何を補償するのか？建物は持ち主、つまり大家さんが自分でなんとかします。大抵は火災保険に入っているのでそれで修理するなり保険金をもらうなりするでしょう。自然災害は誰の過失でもないので借りている人に修復義務は発生しません。
 
-家財も同様に自然災害の場合は
+家財も同様に自然災害の場合は誰の過失でもないので、借りている人が加入している火災保険の家財部分が補償してくれます。大家さんが補償してくれるわけではありません。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjI3NTc2NiwtMTI4MTUzODA5NSwtMT
+eyJoaXN0b3J5IjpbMTA1NTE0NzUzMiwtMTI4MTUzODA5NSwtMT
 kyNjAxNTYxMCwtMTQzNjY1NTEyNF19
 -->
