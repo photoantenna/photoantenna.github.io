@@ -42,8 +42,8 @@ image:
 
 ### 車両保険でも補償されない自然災害
 
-地震、噴火、津波は車両保険
+地震、噴火、津波は車両保険でもカバーすることができない自然災害です。約款にもしっかり書いてあるので諦めましょう。地震が原因の土砂崩れで車が埋まっても津波にさらわれても
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjUxNDMzMCwtMTkyNjAxNTYxMCwtMT
-QzNjY1NTEyNF19
+eyJoaXN0b3J5IjpbODQ4NjkzNjAwLC0xOTI2MDE1NjEwLC0xND
+M2NjU1MTI0XX0=
 -->
