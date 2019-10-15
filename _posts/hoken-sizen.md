@@ -46,8 +46,8 @@ image:
 
 あと保険代理店時代に遭遇した実体験ですが、地震が原因で家の屋根瓦が落ちて車のボンネットが凹んだという事案がありましたがこれは地震が起因しているので補償対象外となりました。落下物の衝突ではありますが原因が地震だと何でもかんでもダメだと思っておいていいでしょう。
 
-
+### 火災保険の水彩
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODE1MzgwOTUsLTE5MjYwMTU2MTAsLT
-E0MzY2NTUxMjRdfQ==
+eyJoaXN0b3J5IjpbMTAwMzE1NDQ0NCwtMTI4MTUzODA5NSwtMT
+kyNjAxNTYxMCwtMTQzNjY1NTEyNF19
 -->
