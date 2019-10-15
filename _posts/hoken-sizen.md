@@ -26,9 +26,16 @@ image:
  - 盗難
  - 火災、爆発、飛来物の衝突やいたずら、落書き等の損害
  - 台風、竜巻、洪水、高潮
- - 
 
+#### 車対車(エコノミー型)の車両保険の補償内容
+
+ - 相手が特定できる場合の車両同士の事故
+ - 盗難
+ - 火災、爆発、飛来物の衝突やいたずら、落書き等の損害
+ - 台風、竜巻、洪水、高潮
+
+要するに
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzNDUyMDQ0LC0xOTI2MDE1NjEwLC0xND
-M2NjU1MTI0XX0=
+eyJoaXN0b3J5IjpbLTIwNTAzMDk2MDAsLTE5MjYwMTU2MTAsLT
+E0MzY2NTUxMjRdfQ==
 -->
