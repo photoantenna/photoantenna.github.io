@@ -12,11 +12,12 @@ image:
 
 <div id="mokuji"><span>もくじ</span></div>
 
-自動車保険は大きく3つの補償内容に分かれていて、ひとつは賠償責任部分。誰かをケガさせたり誰かの物を壊してしまった場合は対人賠償責任保険か対物賠償責任保険で賄われます。
+自動車保険は大きく3つの補償内容に分かれていて、ひとつは相手や相手の物を補償する賠償責任部分。二つ目は自分や同乗者のケガを補償する傷害保険部分。最後に
 
 ### 車の自然災害は車両保険加入が補償の条件です
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzIwMzA5LC0xNDM2NjU1MTI0XX0=
+eyJoaXN0b3J5IjpbLTEyMTg2NTA4MjcsLTE0MzY2NTUxMjRdfQ
+==
 -->
