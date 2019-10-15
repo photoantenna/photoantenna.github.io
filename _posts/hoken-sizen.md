@@ -36,8 +36,8 @@ image:
 
 つまり一般型と車対車(エコノミー型)の違いは自損と当て逃げのみです。なので車両同士の事故を起こしたらすぐに警察を呼んで当事者を明確にしておきましょう。
 
-自然災害時の保険金額算定方法は
+自然災害時の保険金額算定方法は事故時と変わらず保険契約上の車両金額上限内の修理費用か全損なら車両時価相当額です。事故時と違うのは免責金額が設定されていない点です。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjI4MTEwMTEsLTE5MjYwMTU2MTAsLT
-E0MzY2NTUxMjRdfQ==
+eyJoaXN0b3J5IjpbMTM1MjE5NDYyMCwtMTkyNjAxNTYxMCwtMT
+QzNjY1NTEyNF19
 -->
