@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "外貨建て個人年金保険は百害あって一利なしだと元保険代理店は思ふ"
+title: "台風などの自然災害と元保険代理店は思ふ"
 permalink: insurance5
 excerpt: "台風19号が東日本各地に大きな被害をもたらしました。長野県千曲川の堤防が決壊したり等など。家や車が台風によって何らかの損害を被った場合、どのような保険で対応するのでしょうか？"
 categories: "お金"
@@ -14,7 +14,7 @@ image:
 
 ### 車の自然災害は車両保険加入が補償の条件です
 
-
+台風の場合だと
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODE4NDE3NywtMTQzNjY1NTEyNF19
+eyJoaXN0b3J5IjpbMTk3MTIxMjg4LC0xNDM2NjU1MTI0XX0=
 -->
