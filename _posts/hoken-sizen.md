@@ -59,7 +59,9 @@ image:
 ### 賃貸物件に住んでいて自然災害に遭った場合
 
 アパートやマンション、貸家に住んでいる場合は借りている人は建物自体には保険をかけていません。自分の持ち物ではないので。借りている人は必ず不動産契約時に火災保険に加入しているはずですが契約内容は**自分の過失で家に損害を与えた場合に補償するため**の保険と自分の家財補償を組み合わせた火災保険です。借家人賠償責任保険と言います。
+
+では自然災害に遭って建物と家財がめちゃくちゃになった場合、誰が何を補償するのか？建物は持ち主、つまり大家さんが自分でなんとかします。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTc1NTM1ODIsLTEyODE1MzgwOTUsLT
-E5MjYwMTU2MTAsLTE0MzY2NTUxMjRdfQ==
+eyJoaXN0b3J5IjpbLTg1NDk0OTg5OSwtMTI4MTUzODA5NSwtMT
+kyNjAxNTYxMCwtMTQzNjY1NTEyNF19
 -->
