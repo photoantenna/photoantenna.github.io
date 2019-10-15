@@ -53,11 +53,7 @@ image:
 ### 火災保険はいくら使っても保険料は上がりません
 
 火災保険は家の構造と地域でほぼ保険料が決まっていて自動車保険のように等級がありません。なので契約期間中に何回保険を使おうが契約更新後に個別に保険料が上がるということはありません。ただ自然災害が発生した地域に関しては保険の基本料率が上がることはあるかもしれません。けれどその場合は保険を使わなくても上がるということなので火災保険はバンバン使いましょう。もし自然災害で火災保険を使うと保険料が上がる言う人がいたらウソつきです。ただしくは使っても使わなくても上がる時は上がるです。
-
-### 火財にも保険をかけておくと保険金もらいやすい
-
-火災保険はたｔ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA1NzkyNzUsLTEyODE1MzgwOTUsLT
-E5MjYwMTU2MTAsLTE0MzY2NTUxMjRdfQ==
+eyJoaXN0b3J5IjpbLTYyMDU2MTUwLC0xMjgxNTM4MDk1LC0xOT
+I2MDE1NjEwLC0xNDM2NjU1MTI0XX0=
 -->
