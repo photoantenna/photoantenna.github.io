@@ -48,8 +48,8 @@ image:
 
 ### 火災保険は火災、風災以外はオプション
 
-火災保険の基本補償範囲は火災と風災のみです。風災には雹、雪災も含まれています。水災はオプションなので
+火災保険の基本補償範囲は火災と風災のみです。風災には雹、雪災も含まれています。水災はオプションなので大雨や台風の浸水被害や雨による土砂崩れの被害も水災を補償するプランに入っていないダメです。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTk5Mjc3MCwtMTI4MTUzODA5NSwtMT
+eyJoaXN0b3J5IjpbLTgxNTU5NTIzMiwtMTI4MTUzODA5NSwtMT
 kyNjAxNTYxMCwtMTQzNjY1NTEyNF19
 -->
