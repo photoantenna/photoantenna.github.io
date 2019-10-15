@@ -52,8 +52,8 @@ image:
 
 ### 火災保険はいくら使っても保険料は上がりません
 
-火災保険は
+火災保険は家の構造と地域でほぼ保険料が決まっていて自動車保険のように等級がありません。なので契約期間中に何回保険を
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTM4NTU4NiwtMTI4MTUzODA5NSwtMT
-kyNjAxNTYxMCwtMTQzNjY1NTEyNF19
+eyJoaXN0b3J5IjpbOTI5NTgxNjAzLC0xMjgxNTM4MDk1LC0xOT
+I2MDE1NjEwLC0xNDM2NjU1MTI0XX0=
 -->
