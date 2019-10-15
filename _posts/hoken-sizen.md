@@ -74,8 +74,8 @@ image:
 
 ### 大規模自然災害に遭ったら保険金は気長に待つべし
 
-災害の規模が大きいと保険会社の社員は超が付くほど忙しくなります。全国の社員が被災地に集合します。そんで回らないといけない家がむっちゃくちゃ多い上に損害の算定にも非常に時間がかかります。
+災害の規模が大きいと保険会社の社員は超が付くほど忙しくなります。全国の社員が被災地に集合します。そんで回らないといけない家がむっちゃくちゃ多い上に損害の算定にも非常に時間がかかります。基本的に
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTY3MDY0NiwtMTI4MTUzODA5NSwtMT
-kyNjAxNTYxMCwtMTQzNjY1NTEyNF19
+eyJoaXN0b3J5IjpbLTE3MTkwMTI2NzUsLTEyODE1MzgwOTUsLT
+E5MjYwMTU2MTAsLTE0MzY2NTUxMjRdfQ==
 -->
