@@ -20,9 +20,13 @@ image:
 
 #### 一般型の車両保険の補償内容
 
- - でんｔｙ
+ - 電柱、ガードレール衝突や崖、田んぼに突っ込む等の自損事故
+ - 当て逃げ等の相手が特定出来ない場合の車両同士の事故
+ - 相手が特定できる場合の車両同士の事故
+ - 盗難
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTA1Mjg4MTksLTE5MjYwMTU2MTAsLT
-E0MzY2NTUxMjRdfQ==
+eyJoaXN0b3J5IjpbMTI4NjAxMTAwOSwtMTkyNjAxNTYxMCwtMT
+QzNjY1NTEyNF19
 -->
