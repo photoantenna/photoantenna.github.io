@@ -34,8 +34,8 @@ image:
  - 火災、爆発、飛来物の衝突やいたずら、落書き等の損害
  - 台風、竜巻、洪水、高潮
 
-要するに
+車両保険は
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTAzMDk2MDAsLTE5MjYwMTU2MTAsLT
-E0MzY2NTUxMjRdfQ==
+eyJoaXN0b3J5IjpbLTQ3OTY2Njk0MywtMTkyNjAxNTYxMCwtMT
+QzNjY1NTEyNF19
 -->
