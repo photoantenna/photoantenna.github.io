@@ -34,8 +34,8 @@ image:
  - 火災、爆発、飛来物の衝突やいたずら、落書き等の損害
  - 台風、竜巻、洪水、高潮
 
-車両保険は
+つまり一般型と車対車(エコノミー型)の違いは自損と当て逃げのみです。なので
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTY2Njk0MywtMTkyNjAxNTYxMCwtMT
+eyJoaXN0b3J5IjpbLTg2NjMyMjc2MiwtMTkyNjAxNTYxMCwtMT
 QzNjY1NTEyNF19
 -->
